@@ -6,4 +6,10 @@ Plan konten hanifzzqr
 - Animation Website
   * GSAP
   * Particle
-
+- Fundamental programming
+- Mastering PHP
+ * MVC
+ * Databese
+- CSS library
+ *Tailwind
+ * Bootstrap
