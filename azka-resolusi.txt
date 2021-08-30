@@ -3,4 +3,3 @@ Azka Resolusi
 - Mastering Javascript
 - Mastering PHP
 - Mastering Laravel
-- Make platform about coding
