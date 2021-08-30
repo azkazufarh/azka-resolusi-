@@ -2,3 +2,5 @@ Azka Resolusi
 - Konsisten membuat konten reels
 - Mastering Javascript
 - Mastering PHP
+- Mastering Laravel
+- Make platform about coding
