@@ -4,3 +4,4 @@ Plan konten hanifzzqr
 - Animation Website
   * GSAP
   * Particle
+- Fundamental programming
