@@ -1,6 +1,8 @@
 Plan konten hanifzzqr
 - Mastering CSS HTML
 - Tips & Trick
+ * Animation
+ * Gombal Koding
 - Animation Website
   * GSAP
   * Particle
